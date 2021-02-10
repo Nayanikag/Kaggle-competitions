@@ -24,3 +24,6 @@ python3.
 pandas.  
 scikit-learn.  
 
+### Command to run
+
+python main.py
