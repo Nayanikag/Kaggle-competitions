@@ -18,3 +18,9 @@ Now all the features are categorical and are directly fed to train the model
 ### Algorithm used
 RandomForest classifier with random state = 0.  
 Cross validation - 5-fold cross validation
+
+### Installation
+python3.  
+pandas.  
+scikit-learn.  
+
